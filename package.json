@@ -1,0 +1,11 @@
+{
+  "name": "jamaltollo25.github.io",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static site for jamaltollo25.github.io",
+  "scripts": {
+    "start": "npx serve .",
+    "build": "echo \"No build step required for static site\"",
+    "test": "echo \"No tests configured\""
+  }
+}
